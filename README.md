@@ -1,4 +1,4 @@
-## Securing api with jwt tokens
+# Securing api with jwt tokens
 
 ## Setup 
 
